@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An owle at Athens: or, A true relation of the enterance of the Earle of Pembroke into Oxford, April xi. 1648.</title>
+            <author>Winyard, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96718</idno>
+            <idno type="STC">Wing W3098</idno>
+            <idno type="STC">Thomason E437_22</idno>
+            <idno type="STC">ESTC R204076</idno>
+            <idno type="EEBO-CITATION">99863781</idno>
+            <idno type="PROQUEST">99863781</idno>
+            <idno type="VID">161640</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161640)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E437[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An owle at Athens: or, A true relation of the enterance of the Earle of Pembroke into Oxford, April xi. 1648.</title>
+                  <author>Winyard, Thomas.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Anonymous. Attributed to Thomas Winyard.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>"A most scurrilous poem on the Chancellor's coming to Oxford"-- Madan.</note>
+                  <note>Annotation on Thomason copy: "Aprill 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650 --  Poetry --  Early works to 1800.</term>
+               <term>University of Oxford --  Faculty --  Poetry --  Early works to 1800.</term>
+               <term>University autonomy --  Great Britain --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161640:1" rendition="simple:additions"/>
+            <p>AN OWLE AT ATHENS: OR, A true Relation of the Enterance of the <hi>EARLE</hi> of PEMBROKE INTO OXFORD, <hi>April</hi> xi. 1648.</p>
+            <p>
+               <add>Aprill 29</add> Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:161640:2"/>
+            <pb facs="tcp:161640:2"/>
+            <head>AN OWLE AT ATHENS, <hi>OR</hi> A true Relation of the Enterance of of Earle of PEMBROKE into <hi>OXFORD, April</hi> 11. MDCLXVIII.</head>
+            <lg>
+               <l>NAy, <hi>Black-Coates,</hi> now look to'r; you muſt away:</l>
+               <l>Zownes, Men, my Lord is come to Town to day:</l>
+               <l>Thinke not to ſtand out longer by your wit;</l>
+               <l>My Lord hath ſworne <hi>[By God]</hi> you ſhall ſubmit.</l>
+               <l>But, 'cauſe you would not ſee the pompe, (no doubt</l>
+               <l>A fault enough to make him kicke you out.</l>
+               <pb facs="tcp:161640:3"/>
+               <l> I'le tell you that perhaps will make you grin,</l>
+               <l>How the wiſe Lord, and's wiſer Horſe came in.</l>
+            </lg>
+            <lg>
+               <l>The Heavens, leaſt that my Lord ſhould dirt his Boot,</l>
+               <l>Did waſh the ſtreets; alaſſe! none elſe would do't.</l>
+               <l>Each ſide the way ſtood <hi>Souldiers,</hi> like the haire</l>
+               <l>Of his good Lordſhips Beard, one here, one there.</l>
+            </lg>
+            <lg>
+               <l>The firſt came in was <hi>Harris;</hi>
+                  <note place="margin">Harris.</note> 'twas no worſe;</l>
+               <l>But moſt miſtooke him for a <hi>Sumpture Horſe;</hi>
+               </l>
+               <l>And when they ſaw his <hi>Beard,</hi> cried without doubt</l>
+               <l>'Twas one of my Lords <hi>Periwigs</hi> hung out.</l>
+            </lg>
+            <lg>
+               <l>The next was <hi>Rabbi Rogers</hi> that came in,</l>
+               <l>Laden all o're with Aches,<note place="margin">Rogeres</note> Beard and Sin;</l>
+               <l>
+                  <hi>Uſher</hi> to's own <hi>Wives School;</hi> can only <hi>Preach</hi>
+               </l>
+               <l>An houre or two over a <hi>Wenches breech;</hi>
+               </l>
+               <l>Sayes <hi>Grace</hi> before each laſh, and gives her in</l>
+               <l>Precepts like <hi>Cliſters, backwards</hi> for her ſin:</l>
+               <l>Whom th' Houſe hath given to my Lord (forſooth)</l>
+               <l>A ſqueeking <hi>Ela</hi> to his <hi>Gamut</hi> Oath.</l>
+            </lg>
+            <lg>
+               <l>Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> next thing was <hi>Langley's Noſe</hi> that came in ſight,<note place="margin">Langley.</note>
+               </l>
+               <l>(Pox tak't I loſt halfe th' Show; that ſtood ith' light)</l>
+               <l>Miſtris of <hi>Pembroke</hi> Colledge, that can tell</l>
+               <l>Only to Curt'ſie, wind his Watch up well,</l>
+               <l>To his Commiſſion he'd ha'th' Houſe annex</l>
+               <l>A <hi>Viſitation</hi> of the <hi>Female</hi> ſex.</l>
+               <l>For, why? (ſaith he) if they like my <hi>Joane</hi> be.</l>
+               <l>'Tis <hi>they</hi> will rule the Vniverſitie.</l>
+               <l>And how will <hi>they</hi> abuſe us with their <hi>Greeke.</hi>
+               </l>
+               <l>When <hi>ſhe</hi> ſo plagues me, can but <hi>Engliſh</hi> ſpeake?</l>
+               <l>He's added to the reſt o'th Viſitors rank,</l>
+               <l>But as <hi>Jack Capon</hi> to a Mountebank.</l>
+            </lg>
+            <lg>
+               <l>Midſt theſe,<note place="margin">Dr. Wil<g ref="char:EOLhyphen"/>kinſon.</note> old <hi>Zabarella</hi> trotting came;</l>
+               <l>Yet one, that ne'r knew <hi>Zabarel</hi> but by name:</l>
+               <pb facs="tcp:161640:3"/>
+               <l> One whom old Age and Tiſſick have made ſpet</l>
+               <l>Out all his <hi>Gummes;</hi> but h'as his <hi>Sweet Tooth</hi> yet.</l>
+               <l>One that is good for nothing but's Wife's trade,</l>
+               <l>T'eate nought but <hi>Sugar,</hi> and ſhite <hi>Marmalade.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next rode a <hi>Mouth</hi> wide as his preaching <hi>Binn.</hi>
+               </l>
+               <l>The <hi>Cobler, Chaplaine, Butler</hi> of <hi>New-Inne:</hi>
+                  <note place="margin">Gelliman.</note>
+               </l>
+               <l>One with <hi>plurality</hi> of Gifts; 'tis he</l>
+               <l>Muſt help to <hi>clip</hi> the Vniverſitie:</l>
+               <l>And when occaſions do call him to't,</l>
+               <l>Can either <hi>Preach,</hi> or mend his Lordſhips <hi>Boote.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then came a <hi>Taylor,</hi>
+                  <note place="margin">Langley.</note> one of great renowne</l>
+               <l>Both for his Name ſake and his ally'd crowne,</l>
+               <l>A Member not without neceſſitie</l>
+               <l>Sent hither, ſince the Vniverſitie</l>
+               <l>By drinking the <hi>Kings Health</hi> ſo oft (quoth he)</l>
+               <l>Hath ſurely worne its <hi>Breeches</hi> out at <hi>knee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next came a Tribe of <hi>Hebrews</hi> on full ſpeed,<note place="margin">The Seekers</note>
+               </l>
+               <l>As if they'd make this place <hi>Sion</hi> indeed;</l>
+               <l>
+                  <hi>Zachary, Joel, Eleazar, Ben,</hi>
+               </l>
+               <l>
+                  <hi>Obadiah, Daniel,</hi> all <hi>Guifted</hi> men:</l>
+               <l>And 'twas diſputed deeply as they came</l>
+               <l>If <hi>Philip</hi> too were not an <hi>Hebrew</hi> Name?</l>
+               <l>At which my Lord being mov'd began to belch,</l>
+               <l>And ſwore (by God) 'twas better, for't was <hi>Welch</hi>
+               </l>
+               <l>But <hi>Michael Holdſworth</hi> reconcil'd their Tales,</l>
+               <l>And ſaid the <hi>Hebrew</hi> Tongue came all from <hi>Wales.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>After this came <hi>my Lord</hi> (God bleſſe his Grace)</l>
+               <l>With th' <hi>Map</hi> of all his country in his <hi>Face;</hi>
+                  <note place="margin">My Lord.</note>
+               </l>
+               <l>Sure had the Commons often look't <hi>it</hi> 'ore,</l>
+               <l>Their <hi>Privies</hi> would have rais'd 'um long before.</l>
+               <l>His <hi>Briſtles</hi> thin ſtood, and for want of growth</l>
+               <l>Like Toad-ſtooles raiſed by the Thunder of his Mouth;</l>
+               <pb facs="tcp:161640:4"/>
+               <l> His <hi>Noſe</hi> was notcht like Country <hi>Garden Pales,</hi>
+               </l>
+               <l>His <hi>Brow</hi> and <hi>Chin</hi> more <hi>Mountainous</hi> than <hi>Wales.</hi>
+               </l>
+               <l>And who would better fit <hi>Appollo's</hi> place</l>
+               <l>Then he that bears <hi>Parnaſſus</hi> in his <hi>Face?</hi>
+               </l>
+               <l>His <hi>Mouth</hi> is <hi>Hippocrene;</hi> but yet 'tis thought</l>
+               <l>The <hi>Horſe</hi> that ſtruck't had the <hi>Faſhions</hi> in his <hi>Foote.</hi>
+               </l>
+               <l>His <hi>Nagge</hi> aſham'd of's burthen hung the head;</l>
+               <l>Yet for's laſt <hi>Race</hi> ſhall be a <hi>Doctor</hi> ſped.</l>
+            </lg>
+            <lg>
+               <l>Three <hi>foure-wheeled</hi> Carts came laſt;<note place="margin">Merton Colledge. Cheynell.</note> theſe he did ſcorn;</l>
+               <l>Hereafter one with <hi>two</hi> may ſerve his <hi>Turne;</hi>
+               </l>
+               <l>I'th' firſt there rid his Lordſhips Footmans <hi>Cloake:</hi>
+               </l>
+               <l>I'th' ſecond his <hi>own</hi> ſonne (as Some have ſpoke)</l>
+               <l>I'th' third a <hi>Lady</hi> ſate clad all in Red;</l>
+               <l>The Houſe allow him one to warme his <hi>Bed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus, thus they triumpht down to th' Colledge gate,</l>
+               <l>Where ſtood a man of length alone, in ſtate;</l>
+               <l>Who on a ſuddain when the ſilence brake</l>
+               <l>Frighted my Lord, who ſwore a <hi>May-pole</hi> ſpake.</l>
+               <l>But when the Speech began, he would not heare,</l>
+               <l>Leſt't ſhould be Latin; 'laſſe! there was no feare;</l>
+               <l>He made a <hi>Leg,</hi> then <hi>hemm'd;</hi> and call'd him there</l>
+               <l>
+                  <hi>My Lord,</hi> as oft as he does <hi>God</hi> in's Prayer.</l>
+               <l>Then gave a <hi>Bible,</hi> which his Lordſhip tooke;</l>
+               <l>Yet told him he could ſweare <hi>without a Booke;</hi>
+               </l>
+               <l>This Yea-and-Nay welcome made my Lord coy;</l>
+               <l>But when the <hi>Canons</hi> curſt, he <hi>leapt</hi> for joy.</l>
+               <l>Hee's come: though <hi>playes</hi> are down we care not for't,</l>
+               <l>We have one now will make far better <hi>Sport.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <lg>
+               <pb facs="tcp:161640:4"/>
+               <l>TO morrow morne is to be ſhown</l>
+               <l>The <hi>Commons Ape,</hi> (protect the Town!)</l>
+               <l>Ith' the houſe of <hi>Convocation.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yea, and a <hi>Puppet-play</hi> to that,</l>
+               <l>In which the chiefest are Sir <hi>Nat.</hi>
+               </l>
+               <l>The courteous Knight of the bald pate.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Pro-vice-cancellarius</hi>
+               </l>
+               <l>Sine<note n="†" place="margin">CROSS<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Viſitors new Proctor his Speech in i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Con<g ref="char:EOLhyphen"/>vocation-houſe.</note> 
+                  <hi>inſigniis</hi> inſigniſsimus,</l>
+               <l>Cum <hi>non-procuratoribus.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They <hi>walke</hi> about, and <hi>talke</hi> like men,</l>
+               <l>And ſpeak ſome <hi>Latin</hi> now and then;</l>
+               <l>For <hi>pence a piece</hi> you may come in.</l>
+            </lg>
+            <lg>
+               <l>Here the <hi>Creation's</hi> to be ſeen,</l>
+               <l>
+                  <hi>Chaos,</hi> the <hi>Witches, George of Green,</hi>
+               </l>
+               <l>And <hi>Hocus Pochuſſes Nineteen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Without a Key can ſhut and ope,</l>
+               <l>And rob you to your face; we hope</l>
+               <l>Ere long too they will daunce <hi>oth' Rope.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
